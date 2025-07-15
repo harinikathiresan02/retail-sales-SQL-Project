@@ -12,9 +12,6 @@ Analyze retail sales data using SQL to identify trends, customer behavior, and d
 
 ---
 
-## 📂 Project Structure
----
-
 ## 📊 Key Business Questions Answered
 - Which region generates the highest sales and profit?
 - What is the monthly sales trend over time?
@@ -25,7 +22,7 @@ Analyze retail sales data using SQL to identify trends, customer behavior, and d
 ---
 
 ## 📄 Sample SQL Query
-```sql
+
 SELECT 
   Region, 
   SUM(Sales) AS Total_Sales,
@@ -36,33 +33,24 @@ ORDER BY Total_Sales DESC;
 
 ---
 
-**💡 Key Insights**
+## 📊 Key Business Questions Answered
+- Which region generates the highest sales and profit?
+- What is the monthly sales trend over time?
+- How do discounts affect profit margins?
+- Which product category is most profitable?
+- What are the average order values across customer segments?
 
-📍 South region consistently generated the highest revenue.
-
-💰 Technology category had the highest profit margin.
-
-📉 Discounts above 15% led to reduced profitability.
-
-👤 Consumer segment showed the highest average order value.
-
-📅 Sales dipped in February compared to January.
+---
+## 💡 Key Insights
+- 📍 *South region* consistently generated the highest revenue.
+- 💰 *Technology category* had the highest profit margin.
+- 📉 Discounts above 15% led to reduced profitability.
+- 👤 Consumer segment showed the highest average order value.
+- 📅 Sales dipped in February compared to January.
 
 ---
 
-✅ Outcome
-
-Gained hands-on experience with SQL, Power BI, and real-world business analysis.
-
-Developed a reusable query pack for business teams.
-
-Delivered clear insights that support sales and pricing strategy.
-
-
----
-
-🙋‍♀ About Me
-
-I’m Harini, an aspiring Data Analyst with strong skills in SQL, Excel, Power BI, and machine learning. This project demonstrates my ability to turn raw data into actionable business insights.
-
-
+## ✅ Outcome
+- Gained hands-on experience with SQL, Power BI, and real-world business analysis.
+- Developed a reusable query pack for business teams.
+- Delivered clear insights that support sales and pricing strategy.
